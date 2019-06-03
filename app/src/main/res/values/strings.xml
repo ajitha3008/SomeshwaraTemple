@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yoga @ Dhyana Mandira</string>
+    <string name="title_home">Home</string>
+    <string name="title_asanas">Asanas</string>
+    <string name="title_mantras">Mantras</string>
+    <string name="title_about">About</string>
+    <string name="dialog_close">Close</string>
+</resources>
